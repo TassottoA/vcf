@@ -2,7 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 N:Tassotto;Anja;;;
 FN:Anja Tassotto
-ORG:Tassotto Studio
-TITLE:Architektin
-NOTE:Freiberufliche Architektin (Umbauten, Bestandsprojekte, Projektleitung). Termine nach Vereinbarung.
+ORG:TASSOTTO STUDIO, Büro für Architektur & Gestaltung
+TITLE:Dipl.-Ing. (FH) Architektin, Immobilienökonomin
+TEL;TYPE=CELL,VOICE:+49 173 2653296
+EMAIL;TYPE=INTERNET,PREF:anja@tassotto.studio
+URL:https://tassotto.studio
+ADR;TYPE=WORK:;;Spalatinstraße 12b;München;;81739;Deutschland
+NOTE:Freiberufliche Architektin (Umbauten, Bestandsprojekte, Projektleitung).
 END:VCARD
